@@ -1,5 +1,5 @@
 #temporary files are excluded   Create .gitignore add exclude *.tmp
-
+*.tmp
 
 #temporary folder is excluded   Update .gitignore add exclude temp folders
 temp/
