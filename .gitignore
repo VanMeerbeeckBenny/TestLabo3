@@ -1,0 +1,9 @@
+#temporary files are excluded   Create .gitignore add exclude *.tmp
+
+
+#temporary folder is excluded   Update .gitignore add exclude temp folders
+temp/
+
+#All phases except phase1 are ignored
+phase*/**
+!phase1/**
