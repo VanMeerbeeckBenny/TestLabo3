@@ -5,5 +5,5 @@
 temp/
 
 #All phases except phase1 are ignored
-phase3/
+phase*/
 !phase1/**
